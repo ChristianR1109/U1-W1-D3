@@ -5,6 +5,11 @@
   margin-left: 28vw;
   margin-right: 28vw;
 }
+.divmarg2 {
+  margin-left: 28vw;
+  margin-right: 28vw;
+  align-items: center;
+}
 .top2 {
   margin: 0;
   background-color: #fdfbf1;
